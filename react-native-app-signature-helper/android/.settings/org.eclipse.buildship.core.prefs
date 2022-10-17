@@ -1,0 +1,13 @@
+arguments=--init-script /var/folders/j2/k8qc2tgx74d0vh7wfz3cykz00000gn/T/init6259894138017410073.gradle --init-script /var/folders/j2/k8qc2tgx74d0vh7wfz3cykz00000gn/T/init15900206313501253166.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.4.2))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/Users/xcellab/Library/Java/JavaVirtualMachines/openjdk-18.0.1.1/Contents/Home
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
